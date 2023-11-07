@@ -1,0 +1,9 @@
+
+
+
+
+/* Estilo del separador horizontal */
+.separador {
+  border-top: 5px solid #aca9a975; /* Cambia el grosor y el color de la línea según tus preferencias */
+  margin: 20px 0; /* Añade margen arriba y abajo para separar otros elementos */
+}
